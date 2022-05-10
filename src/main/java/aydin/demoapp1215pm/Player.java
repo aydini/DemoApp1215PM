@@ -23,7 +23,9 @@ public class Player {
     
     // setters
     
-    // ToString method
-    
+    // toString method
+    public String toString(){
+        return "name: " + name + " score: " + score;
+    }
     
 }

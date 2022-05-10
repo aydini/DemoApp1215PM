@@ -16,5 +16,7 @@ public class DemoApp1215PM {
         Player p1 = new Player("Aliza", 0);
         Player p2 = new Player("Stravinsky", 0);
         System.out.println("Created players...");
+        System.out.println(p1);
+        System.out.println(p2);
     }
 }
