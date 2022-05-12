@@ -6,7 +6,7 @@ package aydin.demoapp1215pm;
 
 /**
  *
- * @author ilknur aydin
+ * @author ilknur
  */
 public class Player {
     // private fields
